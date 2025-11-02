@@ -16,7 +16,7 @@ This project demonstrates a **dynamic network topology** for a **school environm
 
 ## 🖥️ **Network Topology**
 
-![Network Topology](path-to-your-image.png)  <!-- Add your network topology image path here -->
+Mini School Design Topology.png
 
 ---
 
