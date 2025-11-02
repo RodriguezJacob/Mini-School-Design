@@ -16,8 +16,7 @@ This project demonstrates a **dynamic network topology** for a **school environm
 
 ## 🖥️ **Network Topology**
 
-Mini School Design Topology.png
-
+https://github.com/RodriguezJacob/Mini-School-Design/blob/main/Mini%20School%20Design%20Topology%20.png
 ---
 
 ## 🔧 **Device Configurations**
